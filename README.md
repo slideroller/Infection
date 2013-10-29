@@ -3,7 +3,9 @@ Infection
 
 Infection going to be private soon!
 
-It uses: - DisguiseCraft [http://dev.bukkit.org/bukkit-plugins/disguisecraft/files/48-v5-0/]
+It uses: 
+
+         - DisguiseCraft [http://dev.bukkit.org/bukkit-plugins/disguisecraft/files/48-v5-0/]
          
          - iDisguise [http://dev.bukkit.org/bukkit-plugins/idisguise/files/37-idisguise-v2-2-2/]
          

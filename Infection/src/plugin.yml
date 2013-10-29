@@ -1,0 +1,14 @@
+name: Infection
+main: slideroller.infection.main
+author: [Rage_Master14, Slideroller]
+version: 0.0.1
+description: Private Infected Plugin!
+softdepend: [DisguiseCraft, iDisguise,]
+website: 
+commands:
+    Infected:
+       description: Infected Help Menu
+       usage: /<command>
+       aliases: [/i, inf]
+permissions:
+ 

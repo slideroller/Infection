@@ -11,6 +11,6 @@ It uses:
          
          - BarAPI [http://dev.bukkit.org/bukkit-plugins/bar-api/]
 
-This is a private plugin and if you try to copy the code we will see the same second you open it on the server!
-We implemented a safegrid in the code so It can shutdown your server if we wish to do that.
-Just move along and DO NOT COPY !
+#This is a private plugin and if you try to copy the code we will see the same second you open it on the server!
+#We implemented a safegrid in the code so It can shutdown your server if we wish to do that.
+#Just move along and DO NOT COPY !

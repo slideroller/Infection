@@ -1,9 +1,10 @@
 # ==== Permissions ============================== #
-# Infected.Classes
-#    Infected.Class.Human
-#       Infected.Class.Human.<ClassName>
-#    Infected.Class.Zombie
-#       Infected.Class.Zombie.<ClassName>
+# Infected.Classes                                #
+#    Infected.Class.Human                         #
+#       Infected.Class.Human.<ClassName>          #
+#    Infected.Class.Zombie                        #
+#       Infected.Class.Zombie.<ClassName>         #
+#   PLEASE ADD MORE CLASSES AND EDIT THIS ONES!   #
 # =============================================== #
 Classes:
   Human: 
